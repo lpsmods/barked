@@ -12,14 +12,14 @@
       "functions": [
         {
           "function": "minecraft:set_custom_data",
-          "tag": "{id:\"barked:spruce_bark\"}"
+          "tag": "{id:\"barked:dark_oak_bark\"}"
         },
         {
           "function": "minecraft:set_components",
           "components": {
-            "item_name": "{\"translate\": \"item.barked.spruce_bark\"}",
-            "item_model": "barked:spruce_bark",
-            "lore": ["{\"translate\":\"item.barked\",\"color\":\"blue\"}"]
+            "item_name": {"translate": "item.barked.dark_oak_bark"},
+            "item_model": "barked:dark_oak_bark",
+            "lore": [{"translate":"item.barked","color":"blue"}]
           }
         }
       ]

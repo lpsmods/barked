@@ -12,14 +12,14 @@
       "functions": [
         {
           "function": "minecraft:set_custom_data",
-          "tag": "{id:\"barked:birch_bark\"}"
+          "tag": "{id:\"barked:warped_stipe\"}"
         },
         {
           "function": "minecraft:set_components",
           "components": {
-            "item_name": "{\"translate\": \"item.barked.birch_bark\"}",
-            "item_model": "barked:birch_bark",
-            "lore": ["{\"translate\":\"item.barked\",\"color\":\"blue\"}"]
+            "item_name": { "translate": "item.barked.warped_stipe" },
+            "item_model": "barked:warped_stipe",
+            "lore": [{ "translate": "item.barked", "color": "blue" }]
           }
         }
       ]

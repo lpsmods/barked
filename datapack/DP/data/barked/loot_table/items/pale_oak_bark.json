@@ -17,9 +17,9 @@
         {
           "function": "minecraft:set_components",
           "components": {
-            "item_name": "{\"translate\": \"item.barked.pale_oak_bark\"}",
+            "item_name": { "translate": "item.barked.pale_oak_bark" },
             "item_model": "barked:pale_oak_bark",
-            "lore": ["{\"translate\":\"item.barked\",\"color\":\"blue\"}"]
+            "lore": [{ "translate": "item.barked", "color": "blue" }]
           }
         }
       ]

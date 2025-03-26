@@ -12,14 +12,14 @@
       "functions": [
         {
           "function": "minecraft:set_custom_data",
-          "tag": "{id:\"barked:mangrove_bark\"}"
+          "tag": "{id:\"barked:bamboo_sheath\"}"
         },
         {
           "function": "minecraft:set_components",
           "components": {
-            "item_name": "{\"translate\": \"item.barked.mangrove_bark\"}",
-            "item_model": "barked:mangrove_bark",
-            "lore": ["{\"translate\":\"item.barked\",\"color\":\"blue\"}"]
+            "item_name": { "translate": "item.barked.bamboo_sheath" },
+            "item_model": "barked:bamboo_sheath",
+            "lore": [{ "translate": "item.barked", "color": "blue" }]
           }
         }
       ]
