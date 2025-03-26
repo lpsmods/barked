@@ -4,6 +4,30 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to[Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [datapack-1.7.0] - 3/26/2025
+
+### General
+
+- Updated for 1.21.5
+
+## [neoforge-1.0.0] - unreleased
+
+### General
+
+- Initial release
+
+## [forge-1.0.0] - unreleased
+
+### General
+
+- Initial release
+
+## [fabric-1.0.0] - unreleased
+
+### General
+
+- Initial release
+
 ## [datapack-1.6.0] - 12/9/2024
 
 ### General

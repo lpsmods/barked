@@ -1,7 +1,6 @@
 package dev.lpsmods.barked;
 
-public class CommonClass {
+public class Bootstrap {
     public static void init() {
-
     }
 }

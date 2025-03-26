@@ -1,12 +1,13 @@
 package dev.lpsmods.barked;
 
+import com.mrcrayfish.framework.FrameworkSetup;
 import net.fabricmc.api.ModInitializer;
 
 public class Barked implements ModInitializer {
     
     @Override
     public void onInitialize() {
-        Constants.LOG.info("Hello Fabric world!");
-        CommonClass.init();
+        FrameworkSetup.run();
+        Bootstrap.init();
     }
 }

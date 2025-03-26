@@ -6,7 +6,6 @@ import net.minecraftforge.fml.common.Mod;
 public class Barked {
 
     public Barked() {
-        Constants.LOG.info("Hello Forge world!");
-        CommonClass.init();
+        Bootstrap.init();
     }
 }
