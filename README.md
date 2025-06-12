@@ -1,5 +1,10 @@
 # Barked
 
+![Curseforge](https://img.shields.io/curseforge/dt/477191?logo=curseforge&label=&suffix=%20&style=for-the-badge&color=242629&labelColor=e04e14&logoColor=1c1c1c)
+![Modrinth](https://img.shields.io/modrinth/dt/barked-datapack?logo=modrinth&label=&suffix=%20&style=for-the-badge&color=242629&labelColor=5ca424&logoColor=1c1c1c)
+![Version](https://img.shields.io/curseforge/v/477191?style=for-the-badge)
+![Game Versions](https://img.shields.io/curseforge/game-versions/477191?style=for-the-badge)
+
 Get a bark item when you strip logs, wood, stem, or hyphae blocks.
 
 ## Mod Data
@@ -9,7 +14,7 @@ Get a bark item when you strip logs, wood, stem, or hyphae blocks.
 | namespace | `barked` |
 | slug      | `barked` |
 
-## Editions
+## Loaders
 
 - Bedrock
 - Data Pack
