@@ -1,0 +1,16 @@
+{
+  "format_version": "1.20.20",
+  "sound_definitions": {
+    "unstrip": {
+      "category": "neutral",
+      "max_distance": null,
+      "min_distance": null,
+      "sounds": [
+        "sounds/lpsm/barked/item/axe/unstrip1",
+        "sounds/lpsm/barked/item/axe/unstrip2",
+        "sounds/lpsm/barked/item/axe/unstrip3",
+        "sounds/lpsm/barked/item/axe/unstrip4"
+      ]
+    }
+  }
+}

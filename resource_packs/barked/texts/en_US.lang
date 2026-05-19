@@ -1,0 +1,15 @@
+﻿pack.name=Barked Add-On
+pack.description=§av1.1.0§r - You get a bark item when stripping logs! §8Developer: §6Legopitstop
+
+item.lpsm_barked:acacia_bark=Acacia Bark\n§7Barked Add-On§r
+item.lpsm_barked:bamboo_sheath=Bamboo Sheath\n§7Barked Add-On§r
+item.lpsm_barked:birch_bark=Birch Bark\n§7Barked Add-On§r
+item.lpsm_barked:cherry_bark=Cherry Bark\n§7Barked Add-On§r
+item.lpsm_barked:crimson_stipe=Crimson Stipe\n§7Barked Add-On§r
+item.lpsm_barked:dark_oak_bark=Dark Oak Bark\n§7Barked Add-On§r
+item.lpsm_barked:jungle_bark=Jungle Bark\n§7Barked Add-On§r
+item.lpsm_barked:mangrove_bark=Mangrove Bark\n§7Barked Add-On§r
+item.lpsm_barked:oak_bark=Oak Bark\n§7Barked Add-On§r
+item.lpsm_barked:spruce_bark=Spruce Bark\n§7Barked Add-On§r
+item.lpsm_barked:pale_oak_bark=Pale Oak Bark\n§7Barked Add-On§r
+item.lpsm_barked:warped_stipe=Warped Stipe\n§7Barked Add-On§r

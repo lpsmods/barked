@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_barked:jungle_bark",
+      "menu_category": {
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:icon": "lpsm_barked:jungle_bark",
+      "minecraft:fuel": {
+        "duration": 5
+      },
+      "lpsm_barked:bark": {
+        "conversions": [
+          "stripped_jungle_log->jungle_log",
+          "stripped_jungle_wood->jungle_wood"
+        ]
+      }
+    }
+  }
+}

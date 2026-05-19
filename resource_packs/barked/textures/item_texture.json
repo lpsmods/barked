@@ -1,0 +1,42 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "lpsm_barked:acacia_bark": {
+      "textures": "textures/lpsm/barked/items/acacia_bark.png"
+    },
+    "lpsm_barked:bamboo_sheath": {
+      "textures": "textures/lpsm/barked/items/bamboo_sheath.png"
+    },
+    "lpsm_barked:birch_bark": {
+      "textures": "textures/lpsm/barked/items/birch_bark.png"
+    },
+    "lpsm_barked:cherry_bark": {
+      "textures": "textures/lpsm/barked/items/cherry_bark.png"
+    },
+    "lpsm_barked:crimson_stipe": {
+      "textures": "textures/lpsm/barked/items/crimson_stipe.png"
+    },
+    "lpsm_barked:dark_oak_bark": {
+      "textures": "textures/lpsm/barked/items/dark_oak_bark.png"
+    },
+    "lpsm_barked:jungle_bark": {
+      "textures": "textures/lpsm/barked/items/jungle_bark.png"
+    },
+    "lpsm_barked:mangrove_bark": {
+      "textures": "textures/lpsm/barked/items/mangrove_bark.png"
+    },
+    "lpsm_barked:oak_bark": {
+      "textures": "textures/lpsm/barked/items/oak_bark.png"
+    },
+    "lpsm_barked:spruce_bark": {
+      "textures": "textures/lpsm/barked/items/spruce_bark.png"
+    },
+    "lpsm_barked:warped_stipe": {
+      "textures": "textures/lpsm/barked/items/warped_stipe.png"
+    },
+    "lpsm_barked:pale_oak_bark": {
+      "textures": "textures/lpsm/barked/items/pale_oak_bark.png"
+    }
+  }
+}

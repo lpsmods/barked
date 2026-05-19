@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_barked:acacia_bark",
+      "menu_category": {
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:icon": "lpsm_barked:acacia_bark",
+      "minecraft:fuel": {
+        "duration": 5
+      },
+      "lpsm_barked:bark": {
+        "conversions": [
+          "stripped_acacia_log->acacia_log",
+          "stripped_acacia_wood->acacia_wood"
+        ]
+      }
+    }
+  }
+}

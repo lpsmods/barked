@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_barked:dark_oak_bark",
+      "menu_category": {
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:icon": "lpsm_barked:dark_oak_bark",
+      "minecraft:fuel": {
+        "duration": 5
+      },
+      "lpsm_barked:bark": {
+        "conversions": [
+          "stripped_dark_oak_log->dark_oak_log",
+          "stripped_dark_oak_wood->dark_oak_wood"
+        ]
+      }
+    }
+  }
+}
