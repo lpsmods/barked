@@ -13,10 +13,7 @@
         "duration": 5
       },
       "lpsm_barked:bark": {
-        "conversions": [
-          "stripped_cherry_log->cherry_log",
-          "stripped_cherry_wood->cherry_wood"
-        ]
+        "conversions": ["stripped_cherry_log->cherry_log", "stripped_cherry_wood->cherry_wood"]
       }
     }
   }

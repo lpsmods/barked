@@ -13,10 +13,7 @@
         "duration": 5
       },
       "lpsm_barked:bark": {
-        "conversions": [
-          "stripped_spruce_log->spruce_log",
-          "stripped_spruce_wood->spruce_wood"
-        ]
+        "conversions": ["stripped_spruce_log->spruce_log", "stripped_spruce_wood->spruce_wood"]
       }
     }
   }

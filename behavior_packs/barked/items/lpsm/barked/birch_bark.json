@@ -13,10 +13,7 @@
         "duration": 5
       },
       "lpsm_barked:bark": {
-        "conversions": [
-          "stripped_birch_log->birch_log",
-          "stripped_birch_wood->birch_wood"
-        ]
+        "conversions": ["stripped_birch_log->birch_log", "stripped_birch_wood->birch_wood"]
       }
     }
   }

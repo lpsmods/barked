@@ -13,10 +13,7 @@
         "duration": 5
       },
       "lpsm_barked:bark": {
-        "conversions": [
-          "stripped_jungle_log->jungle_log",
-          "stripped_jungle_wood->jungle_wood"
-        ]
+        "conversions": ["stripped_jungle_log->jungle_log", "stripped_jungle_wood->jungle_wood"]
       }
     }
   }

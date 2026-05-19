@@ -13,10 +13,7 @@
         "duration": 5
       },
       "lpsm_barked:bark": {
-        "conversions": [
-          "stripped_pale_oak_log->pale_oak_log",
-          "stripped_pale_oak_wood->pale_oak_wood"
-        ]
+        "conversions": ["stripped_pale_oak_log->pale_oak_log", "stripped_pale_oak_wood->pale_oak_wood"]
       }
     }
   }

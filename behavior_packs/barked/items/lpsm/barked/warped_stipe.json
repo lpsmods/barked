@@ -10,10 +10,7 @@
     "components": {
       "minecraft:icon": "lpsm_barked:warped_stipe",
       "lpsm_barked:bark": {
-        "conversions": [
-          "stripped_warped_stem->warped_stem",
-          "stripped_warped_hyphae->warped_hyphae"
-        ]
+        "conversions": ["stripped_warped_stem->warped_stem", "stripped_warped_hyphae->warped_hyphae"]
       }
     }
   }

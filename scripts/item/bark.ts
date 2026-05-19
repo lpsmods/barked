@@ -17,18 +17,11 @@ export class BarkComponent {
 
   getBlock(event: ItemComponentUseOnEvent): string {
     var id = event.itemStack.typeId.split(":")[1];
-    var name = id
-      .replace("_bark", "")
-      .replace("_stipe", "")
-      .replace("_sheath", "");
+    var name = id.replace("_bark", "").replace("_stipe", "").replace("_sheath", "");
     if (name == "bamboo") return name + "_block";
     if (name == "crimson" || name == "warped")
-      return event.block.typeId.endsWith("_hyphae")
-        ? name + "_hyphae"
-        : name + "_stem";
-    return event.block.typeId.endsWith("_wood")
-      ? name + "_wood"
-      : name + "_log";
+      return event.block.typeId.endsWith("_hyphae") ? name + "_hyphae" : name + "_stem";
+    return event.block.typeId.endsWith("_wood") ? name + "_wood" : name + "_log";
   }
 
   canConvert(event: ItemComponentUseOnEvent, blockName: string): boolean {
@@ -50,19 +43,11 @@ export class BarkComponent {
     return true;
   }
 
-  onUseOn(
-    event: ItemComponentUseOnEvent,
-    args: CustomComponentParameters,
-  ): void {
+  onUseOn(event: ItemComponentUseOnEvent, args: CustomComponentParameters): void {
     const options = args.params as BarkComponentOptions;
     var blockName = this.getBlock(event);
     if (!this.canConvert(event, blockName)) return;
-    event.block.setPermutation(
-      BlockPermutation.resolve(
-        blockName,
-        event.block.permutation.getAllStates(),
-      ),
-    ); // TODO: Preserve permutations
+    event.block.setPermutation(BlockPermutation.resolve(blockName, event.block.permutation.getAllStates())); // TODO: Preserve permutations
     event.block.dimension.playSound("unstrip", event.block.location);
   }
 }

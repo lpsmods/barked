@@ -13,10 +13,7 @@
         "duration": 5
       },
       "lpsm_barked:bark": {
-        "conversions": [
-          "stripped_oak_log->oak_log",
-          "stripped_oak_wood->oak_wood"
-        ]
+        "conversions": ["stripped_oak_log->oak_log", "stripped_oak_wood->oak_wood"]
       }
     }
   }
