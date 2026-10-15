@@ -10,7 +10,7 @@ Get a bark item when you strip logs, wood, stem, or hyphae blocks.
 
 This repository has multiple branches for each platform this Minecraft mod supports.
 
-- [`1.21`](https://github.com/lpsmods/barked/tree/1.21)
+- [`java`](https://github.com/lpsmods/barked/tree/1.21)
 - [`bedrock`](https://github.com/lpsmods/barked/tree/bedrock)
 
 ## Mod Data
